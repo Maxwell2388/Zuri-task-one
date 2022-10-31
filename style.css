@@ -1,0 +1,43 @@
+*{
+    background-color: whitesmoke;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container1{
+    text-align: center;
+    display: block;
+ }
+
+#profile__img{
+    border-radius: 50%;
+    width: 70px;
+ }
+
+ .btn button:hover{
+    background-color: rgb(220, 217, 217);
+ }
+
+ .btn a{
+    color: black;
+    text-decoration: none;
+    background: hsl(210, 100%, 97%);
+    outline: none;
+    border-bottom: none;
+ }
+
+
+
+ .icons{
+    padding: 0px 15px;
+ }
+
+ .icon{
+    width: 20px;
+    height: 15px;
+ }
+
+ .zuri{
+    text-align: left;
+ }
+ 
